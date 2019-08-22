@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:11:39:38 +0530] "GET /messenger HTTP/1.1" 302 - http-bio-9000-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:11:39:39 +0530] "GET /messenger/ HTTP/1.1" 200 280 http-bio-9000-exec-3 896
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:11:39:42 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 200 7 http-bio-9000-exec-4 83
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:12:16:42 +0530] "GET /messenger HTTP/1.1" 302 - http-bio-9000-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:12:16:42 +0530] "GET /messenger/ HTTP/1.1" 200 280 http-bio-9000-exec-3 61
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:12:17:29 +0530] "GET /messenger/ HTTP/1.1" 200 280 http-bio-9000-exec-6 3
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:12:18:04 +0530] "GET /messenger/ HTTP/1.1" 200 280 http-bio-9000-exec-7 2
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:18:06:59 +0530] "GET /messenger HTTP/1.1" 302 - http-bio-9000-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:18:06:59 +0530] "GET /messenger/ HTTP/1.1" 200 280 http-bio-9000-exec-3 301
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:18:07:00 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9000-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:18:07:37 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 200 7 http-bio-9000-exec-5 78
